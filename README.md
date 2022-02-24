@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gerald-Bartlett
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML, Css, JavaScript, and React Js
-- 💞️ I’m looking to collaborate on  javaScript and React coding 
+- 👀 I’m interested in Software Development. I am currently into my 3rd semester of a 4 semester Software Development program @ Keyin College 
+- 🌱 I have studied Python, HTML, Css, JavaScript, React Js, Node Js & Database programming using PostgreSQL
+- 💞️ I’m looking to collaborate on web development using HTML, CSS, javaScript, or React Js as well as working with databases using PostgreSQL. I will soon be studying Java & Mongo DB
 - 📫 How to reach me gerald.bartlett@hotmail.com
 
 <!---
