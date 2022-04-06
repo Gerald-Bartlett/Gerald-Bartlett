@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerald-Bartlett
 - 👀 I’m interested in Software Development. I am currently into my 3rd semester of a 4 semester Software Development program @ Keyin College 
-- 🌱 I have studied Python, HTML, Css, JavaScript, React Js, Node Js, Database programming using PostgreSQL, AWS Cloud Practitioner & AWS Cloud Developing. 
+- 🌱 I have studied Python, HTML, Css, UI/UX Design using Figma, JavaScript, React Js, Node Js, Database programming using PostgreSQL, AWS Cloud Practitioner & AWS Cloud Developing. 
 - 💞️ I’m looking to collaborate on web development using HTML, CSS, javaScript, or React Js as well as working with databases using PostgreSQL. I am currently studying         Mongo DB
 - 📫 How to reach me gerald.bartlett@hotmail.com
 
