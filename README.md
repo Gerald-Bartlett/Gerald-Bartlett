@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Gerald-Bartlett
-- 👀 I am studying Software Development. I currently finished my 3rd semester of a 4 semester Software Development program @ Keyin College 
+- 👋 Hi, My name is Gerald-Bartlett (Software Development Student). I just finished my 3rd semester of a 4 semester Software Development program at Keyin College, St.Johns NL 
 - 🌱 I have studied Python, HTML, Css, UI/UX Design using Figma, JavaScript, React Js, Node Js, Node ejs, Database programming using PostgreSQL and Mongo Db, AWS Cloud Practitioner & AWS Cloud Developing.
-- Just purchased the Java Development Boot Camp from Udemy, to get a head start on Semester 4. 
+- To get a head start on Semester 4 I just purchased the Java Development Boot Camp from Udemy. 
 
-- 💞️ I’m looking to collaborate on projects using HTML, CSS, javaScript, React Js, Node Js as well as working with databases using PostgreSQL and Mongo Db.
-- My favorite part of coding is when working on a project with a team and you are all stuck and after awhile of reading what you have then the "Eureka Moment" happens and it all starts to come together , what a euphoric moment!
+- 💞️ I’m looking to collaborate on projects using HTML, CSS, javaScript, React Js, Node Js, Node ejs as well as working with databases using PostgreSQL and Mongo Db.
+- My favorite part of coding is when working on a project with a team and you are all stuck and after awhile of reading what you have (as well as using Google really well lol) then that "Eureka Moment" happens and it all starts to come together, what a euphoric moment! Just an example, while working on a class project we had to initiate log events on the saerches within the program, but we could'nt figure out why we would get incrementing log events when we only wanted 1 then after a little research we figured it was the code this.emmiter.on needed to be this.emitter.once wow! just a simple change and bam code working great... Love that eurphoria!!! 
 - 📫 How to reach me gerald.bartlett@hotmail.com
 
 <!---
