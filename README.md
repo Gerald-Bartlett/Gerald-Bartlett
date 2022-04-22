@@ -3,7 +3,7 @@
 - To get a head start on Semester 4 I just purchased the Java Development Boot Camp from Udemy. 
 
 - 💞️ I’m looking to collaborate on projects using HTML, CSS, javaScript, React Js, Node Js, Node ejs as well as working with databases using PostgreSQL and Mongo Db.
-- My favorite part of coding is when working on a project with a team and you are all stuck and after awhile of reading what you have (as well as using Google really well lol) then that "Eureka Moment" happens and it all starts to come together, what a euphoric moment! Just an example, while working on a class project we had to initiate log events on the saerches within the program, but we could'nt figure out why we would get incrementing log events when we only wanted 1 then after a little research we figured it was the code this.emmiter.on needed to be this.emitter.once wow! just a simple change and bam code working great... Love that eurphoria!!! 
+- My favorite part of coding is when working on a project with a team and you are all stuck and after awhile of reading what you have (as well as using Google really well lol) then that "Eureka Moment" happens and it all starts to come together, what a euphoric moment! Just an example, while working on a class project we had to initiate log events on the searches within the program, but we could'nt figure out why we would get incrementing log events when we only wanted 1 then after a little research we figured it was the code this.emmiter.on needed to be this.emitter.once wow! just a simple change and bam code working great... Love that eurphoria!!! 
 - 📫 How to reach me gerald.bartlett@hotmail.com
 
 <!---
