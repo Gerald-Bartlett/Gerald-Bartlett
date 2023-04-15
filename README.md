@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Gerald Bartlett (Full Stack Developer). I recently graduated the Software Development program at Keyin College, St.Johns NL 
+- 👋 Hi, My name is Gerald Bartlett (Full Stack Developer). I graduated August 2022 with a diploma in Software Development from Keyin College, St.Johns NL 
 - 🌱 Languages Studied: Python, JavaScript & Java. Web Technologies: HTML5, CSS3, Web API (Rest), React Js, Node Js, Node ejs, UI/UX Design using Figma, Lucid Chart & Safe Agile using Trello Boards. Content Management using GitHub. Software Testing using J Unit. Database programming using PostgreSQL, Mongo db & MySql. Development tools such as Postman & Docker. I am passionate and focused when I take on any task. I am eager to learn, work well within a team and love eureka moments when coding. I recently purchased the Java Development Boot Camp program from Udemy to keep up on my java skills.I also use other tutorials to keep up with my skills in JavaScript HTML / CSS.  
 
 - 💞️ I’m looking to collaborate on projects using the language skills I have obtained within my studies as well as working with databases.
